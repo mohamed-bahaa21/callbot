@@ -1,0 +1,169 @@
+call active, user says:  hello
+evaluateResponse 1 hello
+engine path 0
+playing  ./sounds/Intro.wav
+audio started playing
+audio_duration 5000
+audio finished playing
+call active, user says:  his
+evaluateResponse 1 his
+engine path 0
+playing  ./sounds/Intro.wav
+audio started playing
+audio_duration 5000
+audio finished playing
+call active, user says:  hello
+evaluateResponse 3 hello
+engine path 7
+playing  ./sounds/opt.wav
+audio started playing
+audio_duration 2000
+audio finished playing
+call active, user says:  okay
+evaluateResponse 3 okay
+engine path 7
+playing  ./sounds/opt.wav
+audio started playing
+audio_duration 2000
+audio finished playing
+call active, user says:  hello
+evaluateResponse 3 hello
+engine path 7
+playing  ./sounds/opt.wav
+audio started playing
+audio_duration 2000
+audio finished playing
+call active, user says:  hello
+evaluateResponse 4 hello
+call active, user says:  hello
+1
+evaluateResponse 1 hello
+engine path 0
+playing  ./sounds/Intro.wav
+audio started playing
+audio_duration 5000
+audio finished playing
+call active, user says:  yes
+1
+evaluateResponse 1 yes
+engine path 0
+playing  ./sounds/Intro.wav
+audio started playing
+audio_duration 5000
+audio finished playing
+call active, user says:  hello
+3
+evaluateResponse 3 hello
+engine path 7
+playing  ./sounds/opt.wav
+audio started playing
+audio_duration 2000
+audio finished playing
+call active, user says:  okay
+2
+evaluateResponse 2 okay
+engine path 4
+playing  ./sounds/pitch_1.wav
+audio started playing
+audio_duration 3000
+play next...
+playing  ./sounds/pitch_2.wav
+audio started playing
+audio_duration 7200
+audio finished playing
+call active, user says:  okay
+2
+evaluateResponse 2 okay
+engine path 4
+playing  ./sounds/pitch_1.wav
+audio started playing
+audio_duration 3000
+play next...
+playing  ./sounds/pitch_2.wav
+audio started playing
+audio_duration 7200
+audio finished playing
+call active, user says:  what
+call active, user says:  what okay
+2
+evaluateResponse 2 what okay
+engine path 4
+playing  ./sounds/pitch_1.wav
+audio started playing
+audio_duration 3000
+play next...
+playing  ./sounds/pitch_2.wav
+audio started playing
+audio_duration 7200
+audio finished playing
+call active, user says:  sure
+2
+evaluateResponse 2 sure
+engine path 4
+playing  ./sounds/pitch_1.wav
+audio started playing
+audio_duration 3000
+play next...
+playing  ./sounds/pitch_2.wav
+audio started playing
+audio_duration 7200
+call active, user says:  hello
+4
+evaluateResponse 4 hello
+call active, user says:  okay
+4
+evaluateResponse 4 okay
+engine path 10
+playing  ./sounds/PartA&B.wav
+audio started playing
+audio_duration 4000
+audio finished playing
+call active, user says:  hello
+1
+evaluateResponse 1 hello
+engine path 0
+playing  ./sounds/Intro.wav
+audio started playing
+audio_duration 5000
+audio finished playing
+call active, user says:  yeah
+call active, user says:  yes
+1
+evaluateResponse 2 yes
+engine path 4
+playing  ./sounds/pitch_1.wav
+audio started playing
+audio_duration 3000
+play next...
+playing  ./sounds/pitch_2.wav
+audio started playing
+audio_duration 7200
+audio finished playing
+call active, user says:  yeah sure
+3
+evaluateResponse 3 yeah sure
+engine path 7
+playing  ./sounds/opt.wav
+audio started playing
+audio_duration 2000
+audio finished playing
+call active, user says:  okay
+3
+evaluateResponse 4 okay
+engine path 10
+playing  ./sounds/PartA&B.wav
+audio started playing
+audio_duration 4000
+audio finished playing
+call active, user says:  yes
+5
+evaluateResponse 5 yes
+engine path 13
+playing  ./sounds/Goodtohear.wav
+audio started playing
+audio_duration 1500
+play next...
+playing  ./sounds/age.wav
+audio started playing
+audio_duration 2000
+audio finished playing
