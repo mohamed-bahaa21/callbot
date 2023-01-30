@@ -1,2 +1,3 @@
-* Download vosk-model-small-en-us-0.15
 * Download sox-14.4.1a OR sox-14.4.2
+* Don't forget to add the "model" folder 
+** download vosk-model-small-en-us-0.15
